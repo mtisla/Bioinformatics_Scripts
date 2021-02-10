@@ -1,2 +1,2 @@
 # Bioinformatics_Scripts
-This repository contains python and bash scripts for standard bioinformatics pipeline
+This repository contains Python and Bash scripts for standard bioinformatics pipeline
